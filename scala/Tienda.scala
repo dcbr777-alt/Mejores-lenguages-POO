@@ -55,6 +55,4 @@ object Tienda extends App {
   p1.mostrar(); p2.mostrar(); p3.mostrar()
 }
 
-// COMPILAR Y EJECUTAR:
-// scalac Tienda.scala
-// scala Tienda
+
