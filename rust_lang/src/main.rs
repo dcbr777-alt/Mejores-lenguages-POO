@@ -70,5 +70,4 @@ fn main() {
     p1.mostrar(); p2.mostrar(); p3.mostrar();
 }
 
-// EJECUTAR:
-// cargo run
+
