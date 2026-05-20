@@ -67,5 +67,3 @@ class Program {
     }
 }
 
-// EJECUTAR:
-// dotnet run
