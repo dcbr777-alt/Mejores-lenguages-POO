@@ -1,6 +1,3 @@
-// tienda.cpp
-// Tienda con inventario simple en C++
-// Conceptos: clase, constructor, métodos, encapsulamiento
 
 #include <iostream>
 #include <string>
@@ -71,6 +68,4 @@ int main() {
     return 0;
 }
 
-// COMPILAR Y EJECUTAR:
-// g++ tienda.cpp -o tienda
-// ./tienda
+
